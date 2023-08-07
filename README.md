@@ -1,2 +1,2 @@
 # LPVS2_duda
-Aulas de LPVS2 - IFSP Araraquara.
+Repositório da LPVS2 - IFSP Araraquara.
